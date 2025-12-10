@@ -12,3 +12,7 @@ My first year participating! Planning on taking my time on each day and 'overdoi
 ## Day 1:
 
 - Emphasis on using Value Objects!
+
+## Day 2:
+
+-
